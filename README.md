@@ -3,8 +3,7 @@
   <a>Kapil Yadav</a>
 </h2>
 <div align="center">
-  <img alt="read-me" src="./Images/readme-readme-img.png" />
-</div>
+  <img alt="Demo" src="./Images/readme-img.png" />
 
 <br/>
 
