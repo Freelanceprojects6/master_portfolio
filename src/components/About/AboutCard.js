@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently a student of B.Tech CSE at Shree Guru Gobind Singh Tricentenary University.
             <br />
-             I am pursuing a B.Tech with a specialization in Apple.
+             I am pursuing B.Tech with a specialization in Apple.
             .
             <br />
             <br />
